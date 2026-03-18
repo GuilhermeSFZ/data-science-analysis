@@ -1,2 +1,3 @@
-# data-science-analysis
-Esse repositório possui uma série de análises de datasets que foram realizados durantes as aulas de ciências da computação 
+📊 Data Science Analysis
+
+Este repositório reúne uma série de análises de conjuntos de dados desenvolvidas ao longo das aulas da disciplina de Ciência de Dados no curso de Ciência da Computação.
